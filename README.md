@@ -262,6 +262,7 @@ src/
 - [TypeScript公式ドキュメント](https://www.typescriptlang.org/)
 - [Tailwind CSS公式ドキュメント](https://tailwindcss.com/)
 - [Vite公式ドキュメント](https://vitejs.dev/)
+- [GitHub Pages](https://willowtown0576.github.io/chess-app/)
 
 ---
 
